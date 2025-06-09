@@ -6,6 +6,8 @@ Atualmente, sigo em constante evolução, buscando ser um profissional cada vez 
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victchor)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🧠 Sobre mim
 
 - 💻 Atualmente trabalho como desenvolvedor web fullstack (PHP + Vue.js)
