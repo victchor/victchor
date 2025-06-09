@@ -20,7 +20,7 @@ Atualmente, sigo em constante evolução, buscando ser um profissional cada vez 
   <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vic-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="Vic-SCSS" height="30" width="40" font-color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg">
+  <img align="center" alt="Vic-SCSS" height="30" width="40" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg">
 </div>
   
   ##
