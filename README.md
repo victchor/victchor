@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Victor
 
-<!--
-**victchor/victchor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor web fullstack com foco em backend PHP (Symfony) e frontend com Vue.js, SCSS e Bootstrap. Tenho experiência em projetos de backoffice, APIs REST e sistemas voltados à otimização de processos internos.
 
-Here are some ideas to get you started:
+Atualmente, sigo em constante evolução, buscando ser um profissional cada vez mais completo e preparado para os desafios do mercado de tecnologia. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Sobre mim
+
+- 💻 Atualmente trabalho como desenvolvedor web fullstack (PHP + Vue.js)
+- 🏢 Atuei na Box Delivery e Rappi
+- 📚 Iniciei minha jornada pela SPTECH com foco em desenvolvimento web e backend rabiscando um pouco no mobile (HTML, CSS, JavaScript, React, Java, Kotlin, Android)
+- 🧩 Valorizo habilidades socioemocionais como comunicação, empatia e resiliência
+- 🌱 Estou aprimorando minhas habilidades com Php e frontend com Vuejs
+- 🤝 Gosto de compartilhar conhecimento e auxiliar colegas
+- 🤯 Tenho grande interesse em saber mais (e futuramente trabalhar) com inteligência artificial
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+**Backend:** PHP, Symfony, Laravel, APIs REST, MySQL, PostgreSQL  
+**Frontend:** Vue.js, Bootstrap, SCSS, HTML, CSS, Twig
+**Extras:** GitLab, Scrum, PHPUnit, React, Java, Spring Boot, Kotlin, Android Studio  
+
+---
+
+### 📫 Onde me encontrar
+
+- Email: [victchor@gmail.com](mailto:victchor@gmail.com)
+- LinkedIn: [linkedin.com/in/victor-souza-silveira-developer](https://www.linkedin.com/in/victor-souza-silveira-developer)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Vamos nos conectar e trocar ideias sobre código, design e inovação!
