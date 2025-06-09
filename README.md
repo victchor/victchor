@@ -9,7 +9,7 @@ Atualmente, sigo em constante evolução, buscando ser um profissional cada vez 
 <div align="center">
   <a href="https://github.com/victchor">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=victchor&theme=calm_pink&show_icons=true" alt="Victor's GitHub stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victchor&layout=donut&theme=calm_pink" alt="Top Langs" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victchor&layout=compact&theme=calm_pink" alt="Top Langs" />
   </a>
 </div>
 
