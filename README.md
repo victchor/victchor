@@ -6,7 +6,7 @@ Atualmente, sigo em constante evolução, buscando ser um profissional cada vez 
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm_pink&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victchor&theme=calm_pink&show_icons=true)
 
 ### 🧠 Sobre mim
 
