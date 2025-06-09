@@ -7,7 +7,7 @@ Atualmente, sigo em constante evolução, buscando ser um profissional cada vez 
 ---
 
 <div>
-  <a href="https://github.com/victchor/github-readme-stats">
+  <a href="https://github.com/victchor">
     <img height: "180em" src="https://github-readme-stats.vercel.app/api?username=victchor&theme=calm_pink&show_icons=true" alt="Victor's GitHub stats" />
     <img height: "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victchor&layout=donut&theme=calm_pink" alt="Top Langs" />
   </a>
