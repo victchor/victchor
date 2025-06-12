@@ -48,7 +48,7 @@ Atualmente, sigo em constante evolução, buscando ser um profissional cada vez 
 ### ⚙️ Tecnologias e Ferramentas
 
 **Backend:** PHP, Symfony, Laravel, APIs REST, MySQL, PostgreSQL  
-**Frontend:** Vue.js, Bootstrap, SCSS, HTML, CSS, Twig
+**Frontend:** Vue.js, Bootstrap, SCSS, HTML, CSS, Twig  
 **Extras:** GitLab, Scrum, PHPUnit, React, Java, Spring Boot, Kotlin, Android Studio  
 
 ---
