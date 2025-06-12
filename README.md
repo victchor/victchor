@@ -60,4 +60,4 @@ Atualmente, sigo em constante evolução, buscando ser um profissional cada vez 
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Vamos nos conectar e trocar ideias sobre código, design e inovação!
+⭐ Obrigado por visitar meu perfil!
