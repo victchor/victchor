@@ -1,63 +1,34 @@
-## 👋 Olá! Eu sou o Victor
+## Olá, eu sou o Victor 👋
 
-Sou desenvolvedor web fullstack com foco em backend PHP (Symfony) e frontend com Vue.js, SCSS e Bootstrap. Tenho experiência em projetos de backoffice, APIs REST e sistemas voltados à otimização de processos internos.
+**Engenheiro de IA** com base sólida em backend. Trabalho com IA Generativa e aplicações com LLMs: RAG, agentes com tool calling, avaliação e observabilidade, levando IA para produção com boas práticas de engenharia de software.
 
-Atualmente, sigo em constante evolução, buscando ser um profissional cada vez mais completo e preparado para os desafios do mercado de tecnologia. 🚀
+Desenvolvo software desde 2022 (Box Delivery, Rappi, Grupo Ideal Trends) e hoje, na AMB, sou responsável pela concepção, arquitetura e desenvolvimento do **IAMB**, um assistente de IA com RAG e agentes em Python.
 
----
+### 🤖 O que eu faço com IA
 
-<div align="center">
-  <a href="https://github.com/victchor">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victchor&theme=calm_pink&show_icons=true" alt="Victor's GitHub stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victchor&layout=compact&theme=calm_pink" alt="Top Langs" />
-  </a>
-</div>
+- **RAG**: chunking, embeddings (Sentence Transformers), busca semântica, reranking e bancos vetoriais (ChromaDB)
+- **Agentes**: LangChain e LangGraph, tool calling sobre APIs internas com guardrails (acesso somente leitura)
+- **Avaliação e observabilidade**: LangSmith, Hit Rate, LLM-as-a-judge, latência, tokens e custo por pergunta
+- **LLMs**: Gemini, Claude e OpenAI API, com camada de modelo desacoplada para trocar de provedor por configuração
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vic-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Vic-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Vic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vic-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="Vic-SCSS" height="30" width="40" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/v_souzinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:victchor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-souza-silveira-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### 🔬 Projeto em destaque
 
+**[RAG sobre Bulas de Medicamentos](https://github.com/victchor/RAG-bula-medicamento)**: pipeline RAG completo em Python que responde perguntas sobre bulas em PDF citando a página de origem. Reranking, padrão Factory para alternar entre Gemini e Claude, avaliação com Hit Rate e LLM-as-a-judge, métricas de latência, tokens e custo, e interface em Streamlit.
 
+### 🛠️ Stack
 
-### 🧠 Sobre mim
+**IA:** Python · LangChain · LangGraph · LangSmith · ChromaDB · Hugging Face · Gemini · Claude · Streamlit  
+**Backend:** Python · Node.js (Express) · PHP 8 (Laravel, Symfony) · APIs REST · microsserviços · RabbitMQ  
+**Dados e infra:** PostgreSQL · MySQL · Docker · AWS · Git  
+**Front-end:** React · TypeScript · Vue.js · Vite · Tailwind
 
-- 💻 Atualmente trabalho como desenvolvedor web fullstack (PHP + Vue.js)
-- 🏢 Atuei na Box Delivery e Rappi
-- 📚 Iniciei minha jornada pela SPTECH com foco em desenvolvimento web e backend rabiscando um pouco no mobile (HTML, CSS, JavaScript, React, Java, Kotlin, Android)
-- 🧩 Valorizo habilidades socioemocionais como comunicação, empatia e resiliência
-- 🌱 Estou aprimorando minhas habilidades com Php e frontend com Vuejs
-- 🤝 Gosto de compartilhar conhecimento e auxiliar colegas
-- 🤯 Tenho grande interesse em saber mais (e futuramente trabalhar) com inteligência artificial
+### 📚 Estudando agora
 
----
+- Engenharia de IA Generativa e Criação de Agentes (Alura): fine-tuning, MCP e multiagentes
+- MBA em Tecnologia Java (UTFPR)
+- Minhas anotações de estudo: [IA-Engineer---notations](https://github.com/victchor/IA-Engineer---notations)
 
-### ⚙️ Tecnologias e Ferramentas
+### 📫 Contato
 
-**Backend:** PHP, Symfony, Laravel, APIs REST, MySQL, PostgreSQL  
-**Frontend:** Vue.js, Bootstrap, SCSS, HTML, CSS, Twig  
-**Extras:** GitLab, Scrum, PHPUnit, React, Java, Spring Boot, Kotlin, Android Studio  
-
----
-
-### 📫 Onde me encontrar
-
-- Email: [victchor@gmail.com](mailto:victchor@gmail.com)
-- LinkedIn: [linkedin.com/in/victor-souza-silveira-developer](https://www.linkedin.com/in/victor-souza-silveira-developer)
-
----
-
-⭐ Obrigado por visitar meu perfil!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-souza-silveira-developer)
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victchor@gmail.com)
